@@ -1,0 +1,18 @@
+.header {
+  color: var(--neon-green);
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+.quote {
+  font-size: 24px;
+  color: var(--light-cyan);
+  text-align: center;
+  margin: 0 0.75em;
+}
+.infowrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
